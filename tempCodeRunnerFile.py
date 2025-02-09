@@ -1,0 +1,1 @@
+cam = cv2.VideoCapture(0)
